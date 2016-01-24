@@ -1,4 +1,4 @@
-Bonjour à celui qui lire ceci.
+Bonjour à celui qui va lire ceci.
 
 Voici notre projet pour le Challenge Inter-Promo (que nous allons surement porter plus loin qu'un unique projet'. 
 
